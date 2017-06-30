@@ -1,6 +1,6 @@
 from datetime import datetime
 
-#spy name list
+#creating class of default spy
 class Spy:
     def __init__(self, name, salutation, age, rating):
         self.name = name
